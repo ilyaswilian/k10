@@ -9,7 +9,7 @@ Simple WhatsApp Bot
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/ilyaswilian/k10
-> cd Arya-DN
+> cd k10
 > npm install
 ```
 ###### Run
